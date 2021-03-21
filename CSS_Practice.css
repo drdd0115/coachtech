@@ -40,16 +40,16 @@ nav a {
 
 .relative-img {
   position: fixed;
-  top: 100px;
-  left: 40%;
+  top: 80px;
+  left: 35%;
   z-index: 10;
   width: 50%;
-  margin-right: 50px;
+  margin-right: 80px;
 }
 
 .absolute-text {
   position: fixed;
-  top: 350px;
+  top: 450px;
   font-weight: bold;
   font-size: 60px;
 }
